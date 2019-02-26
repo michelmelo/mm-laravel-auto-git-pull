@@ -1,0 +1,36 @@
+{
+    "name": "michelmelo/laravel-auto-git-pull",
+    "description": "Laravel Auto :: Git Pull",
+    "homepage": https://github.com/michelmelo/laravel-auto-git-pull",
+    "keywords": [
+        "laravel",
+        "auto",
+        "git",
+        "pull"
+    ],
+    "license": "NONE",
+    "authors": [
+        {
+            "name": "Michel Melo",
+            "email": "eu@michelmelo.pt",
+            "role": "Developer",
+            "homepage": "https://michelmelo.pt"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "phpseclib/phpseclib": ">=2.0"
+
+
+    },
+    "require-dev": {},
+    "config": {
+        "optimize-autoloader": true,
+        "minimum-stability": "dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "MichelMelo\\MMAutoGitPull": "src/"
+        }
+    }
+}
