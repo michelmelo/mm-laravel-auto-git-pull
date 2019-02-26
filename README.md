@@ -1,5 +1,5 @@
 # mm-laravel-auto-git-pull
-Laravel auto git pull
+MM Laravel auto git pull
 
 ## .env Variables
 ```code
