@@ -1,7 +1,7 @@
 # mm-laravel-auto-git-pull
 MM Laravel auto git pull
 
-# https://packagist.org/packages/michelmelo/mm-laravel-auto-git-pull
+## https://packagist.org/packages/michelmelo/mm-laravel-auto-git-pull
 
 ## .env Variables
 ```code
